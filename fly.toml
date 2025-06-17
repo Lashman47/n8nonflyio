@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for n8nonflyio-ftaucw on 2025-06-17T14:34:03Z
+# fly.toml app configuration file generated for n8nonflyio-car39g on 2025-06-17T15:34:07Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'n8nonflyio-ftaucw'
+app = 'n8nonflyio-car39g'
 primary_region = 'bom'
 
 [build]
